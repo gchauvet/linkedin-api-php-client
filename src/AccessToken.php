@@ -3,7 +3,7 @@
  * linkedin-client
  * AccessToken.php
  *
- * PHP Version 5
+ * PHP Version 8
  *
  * @category Production
  * @package  Default
@@ -182,6 +182,7 @@ class AccessToken implements \JsonSerializable
     /**
      * Specify data format for json_encode()
      */
+    #[\ReturnTypeWillChange]
     public function jsonSerialize()
     {
         return [

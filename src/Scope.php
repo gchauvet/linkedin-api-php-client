@@ -3,7 +3,7 @@
  * linkedin-client
  * Scope.php
  *
- * PHP Version 5
+ * PHP Version 8
  *
  * @category Production
  * @package  Default
