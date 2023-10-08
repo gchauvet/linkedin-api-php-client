@@ -42,9 +42,9 @@
     ],
     "support": {
         "docs": "https://www.zoonman.com/projects/linkedin-client/",
-        "source": "https://github.com/zoonman/linkedin-api-php-client",
-        "issues": "https://github.com/zoonman/linkedin-api-php-client/issues",
-        "wiki": "https://github.com/zoonman/linkedin-api-php-client/wiki"
+        "source": "https://github.com/gchauvet/linkedin-api-php-client",
+        "issues": "https://github.com/gchauvet/linkedin-api-php-client/issues",
+        "wiki": "https://github.com/gchauvet/linkedin-api-php-client/wiki"
     },
     "autoload": {
         "psr-4": {"LinkedIn\\": "src/"}
